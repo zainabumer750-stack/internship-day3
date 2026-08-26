@@ -1,2 +1,3 @@
 Day2 - Git practice
 Learning Git step by step
+Git tracks my changes.
