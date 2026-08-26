@@ -3,3 +3,4 @@ Learning Git step by step
 Git tracks my changes.
 Git is useful for version control.
 small commits keep history clear.
+Git helps me work safely.
