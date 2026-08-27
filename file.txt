@@ -7,3 +7,4 @@ Git helps me work safely.
 git consist different themes.
 Git responds fast.
 Git ten commits completed.
+feature-x change
