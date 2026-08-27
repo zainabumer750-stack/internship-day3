@@ -1,1 +1,2 @@
-this is the main branch.
+This is the final version after resolving the conflict.
+
