@@ -10,3 +10,17 @@ Open the project in VS code.
 - Git 
 - Git hub
 - VS code
+
+
+## Markdown practice
+
+**This text is bold.**
+
+-Git
+-GitHub
+-VS code
+
+### Example command
+
+'git status'
+
